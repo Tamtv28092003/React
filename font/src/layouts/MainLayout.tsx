@@ -12,10 +12,10 @@ const MainLayout = () => {
               <img src="https://bizweb.dktcdn.net/100/438/408/themes/897269/assets/logo.svg?1677753100854"
                 alt="" />
             </a>
-            <div className='flex gap-[20px]'>
+            {/* <div className='flex gap-[20px]'>
               <p>Xuất Khẩu: Việt Nam</p>
               <p>Số Điện Thoại: 0123456789</p>
-            </div>
+            </div> */}
           </div>
           <div className="nav-item">
             <div className="item-list">

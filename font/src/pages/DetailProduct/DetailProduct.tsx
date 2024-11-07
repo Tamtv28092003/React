@@ -56,7 +56,7 @@ const DetailProduct = () => {
                                     <img src={products.image} alt="image not" />
                                 </div>
                                 <hr className="seperate" />
-                                <div className="details">
+                                {/* <div className="details">
                                     <h4 className="title-details"> Đặc tính nổi bật </h4>
                                     <p>- Áo thun chất liệu: 100% Cotton BCI mềm mại, bề mặt vải bông xốp</p>
                                     <p>- Bông làm áo được trồng theo tiêu chuẩn ECO an toàn cho làn da</p>
@@ -68,7 +68,7 @@ const DetailProduct = () => {
                                         hoàn cảnh khác nhau </p>
                                     <p>- Có thể mix cùng quần jeans, short, chân váy để đi chơi, dạo phố, đi làm, đi học
                                     </p>
-                                </div>
+                                </div> */}
                                 <hr className="seperate" />
                                 <h4 className="title-details"> Đánh giá </h4>
                                 <div className="content-evaluate">

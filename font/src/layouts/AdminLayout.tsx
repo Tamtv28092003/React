@@ -34,7 +34,7 @@ const AdminLayout = () => {
                 <div>
                   <button type="button" className="flex text-sm bg-gray-800 rounded-full focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600" aria-expanded="false" data-dropdown-toggle="dropdown-user">
                     <span className="sr-only">Open user menu</span>
-                    <img className="w-8 h-8 rounded-full" src="https://t.vietgiaitri.com/2020/8/9/dien-qua-nhap-vai-do-mixi-duoc-cong-dong-binh-chon-doat-giai-oscar-159-5188162.jpg" alt="user photo" />
+                    {/* <img className="w-8 h-8 rounded-full" src="https://t.vietgiaitri.com/2020/8/9/dien-qua-nhap-vai-do-mixi-duoc-cong-dong-binh-chon-doat-giai-oscar-159-5188162.jpg" alt="user photo" /> */}
                   </button>
                 </div>
                 <div className="z-50 hidden my-4 text-base list-none bg-white divide-y divide-gray-100 rounded shadow dark:bg-gray-700 dark:divide-gray-600" id="dropdown-user">
